@@ -453,8 +453,6 @@ echo $Master
 printenv
 less printenv
 printenv > less
-less -zshrc
-less .zshrc
 c
 type python
 which python
