@@ -1,0 +1,20 @@
+date --help | less
+ls -ltrh
+date -r Text_example.txt
+stap
+release
+type
+type:release
+type: release
+$(date)
+date
+cd Repos
+cd Clases_Master
+ll
+cd Shell
+ll
+echo $(date)
+echo "# This file is created by KSCHOOL on:" $(date) > timestamp_file.txt
+cat timestamp_file.txt
+tail -20 ~/.history
+tail -20 ~/.history > last_characters.txt
